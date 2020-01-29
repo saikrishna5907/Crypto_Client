@@ -1,0 +1,22 @@
+.card{
+    width: 80%;
+    margin-left: 120px;
+    margin-bottom: 10px;
+
+}
+.editBtn{
+    width: 30%;
+    margin: 1vh 19vw;
+    background-color: rgb(175, 15, 223);
+}
+.editBtn:hover{
+    background-color: rgba(138, 16, 219, 0.781);
+}
+.deleteBtn{
+    width: 30%;
+    margin: 1vh 19vw;
+    background-color: rgb(219, 21, 21);
+}
+.deleteBtn:hover{
+    background-color: rgb(230, 90, 90);
+}

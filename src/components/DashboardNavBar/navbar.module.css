@@ -1,0 +1,21 @@
+    .root {
+        flex-grow: 1;
+        background-color: aliceblue;
+    }
+   .menuButton {
+        margin-right: 20vw;
+    }
+    .title {
+        flex-grow:1;
+    }
+    a:hover,
+ a:active,
+a.active,
+a{
+    text-decoration: none;
+    color: black;
+}
+/* a.active{
+    border-radius: 10px;
+    border-color: brown;
+} */

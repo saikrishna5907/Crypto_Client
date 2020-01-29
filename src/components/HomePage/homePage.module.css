@@ -1,0 +1,35 @@
+.loginBtn{
+    background-color: transparent;
+    color: rgb(20, 220, 53);
+    border: transparent;
+    font-weight: 400;
+}
+.loginBtn:hover{
+    background-color: rgb(51, 153, 114);
+    color: white;
+}
+
+.mainContainer{
+    margin-top: 10%;
+    display: flex;
+    flex-flow: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.signUpContainer{
+    margin-top: 5%;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+.signUpBtn{
+    background-color: transparent;
+    color: rgb(220, 20, 210);
+    font-weight: 600;
+    margin-left: 8vw;
+    border: transparent;
+}
+.signUpBtn:hover{
+    background-color: rgb(157, 62, 180);
+}

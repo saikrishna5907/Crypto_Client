@@ -1,0 +1,14 @@
+.mainDiv{
+    background-color: rgba(192, 233, 210, 0.575);
+    margin: 20vh 27vw;
+    height: 60vh;
+    display: flex;
+    flex-flow: row;
+    color: white;
+}
+.errors{
+    color: white;
+    width: 50%;
+    position: relative;
+    background-color: rgb(189, 61, 11);
+}

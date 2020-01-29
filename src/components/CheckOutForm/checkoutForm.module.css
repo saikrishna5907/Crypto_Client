@@ -1,0 +1,46 @@
+.formControl {
+    min-width: 120;
+    width: 60%;
+    margin-top: 10vh;
+}
+.mainContainer{
+    background-color: rgb(213, 218, 233);
+    width: 100%;
+    color: rgb(68, 104, 212);
+}
+.errors{
+    color: white;
+    width: 50%;
+    position: relative;
+    background-color: rgb(189, 61, 11);
+}
+.buyBtn{
+    align-self: flex-end;
+    /* margin-top: 20px; */
+    margin-left: 20px ;
+    margin-top: 50px;
+    color: white;
+    width: 20%;
+    background-color: rgb(40, 122, 67);
+}
+.buyBtn:hover
+.buyBtn:active
+.buyBtn:focus{
+    background-color: rgb(5, 180, 63);
+}
+.cancelBtn{
+    align-self: flex-end;
+    /* margin-top: 20px; */
+    margin-left: 20px ;
+    margin-top: 50px;
+    align-content: center   ;
+    color: white;
+    width: 20%;
+    background-color: rgb(197, 69, 18);
+}
+.cancelBtn a{
+    color: white;
+}
+.cancelBtn:hover{
+    background-color: rgb(255, 72, 0);
+}
